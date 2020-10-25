@@ -1,0 +1,118 @@
+#section1 .fa {
+  font-size: 50px; }
+
+#carousel img {
+  height: 500px;
+  width: 100%; }
+
+.navbar {
+  background: #4E403D; }
+  .navbar .nav-item {
+    font-size: 15px; }
+
+#Turning .fa {
+  font-size: 50px; }
+
+@media (max-width: 400px) {
+  .carousel h3 {
+    font-size: 2.5rem; } }
+
+#getstarter {
+  position: relative;
+  background: url("../img/desert.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  background-attachment: fixed;
+  height: 300px; }
+  #getstarter .dark-overlay {
+    background: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%; }
+
+@media (max-width: 444px) {
+  #getstarter {
+    height: 350px; } }
+
+@media (max-width: 375px) {
+  #getstarter {
+    height: 400px; } }
+
+@media (max-width: 333px) {
+  #getstarter {
+    height: 450px; } }
+
+#laptop {
+  padding-bottom: 3rem;
+  padding-top: 1.2rem;
+  height: 400px; }
+  #laptop h3 {
+    color: #424243; }
+
+@media (max-width: 575px) {
+  #laptop #responsive {
+    margin-top: 2rem; } }
+
+@media (max-width: 767px) {
+  #laptop {
+    text-align: center; } }
+
+#home-video {
+  position: relative;
+  background: url("../img/people.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  background-attachment: fixed;
+  height: 300px; }
+  #home-video .dark-overlay {
+    background: rgba(0, 0, 0, 0.7);
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%; }
+  #home-video .fa {
+    font-size: 40px; }
+
+@media (max-width: 767px) {
+  #gallery img {
+    margin-top: 1rem; } }
+
+@media (max-width: 767px) {
+  #home-video {
+    margin-top: 15rem; } }
+
+@media (max-width: 767px) {
+  #footerDiv form input {
+    margin-top: 1rem; } }
+
+#aboutFirstSection {
+  position: relative;
+  background: url("../img/desert (2).jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  height: 300px;
+  background-attachment: fixed; }
+  #aboutFirstSection .dark-overlay {
+    background: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%; }
+
+#whatToDo img {
+  height: 350px;
+  width: 350px; }
+
+#cardDiv .fa {
+  font-size: 50px; }
+
+@media (min-width: 768px) {
+  #cardDiv #lastIconDiv {
+    margin-top: 2rem; } }
